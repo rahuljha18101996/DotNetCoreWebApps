@@ -93,14 +93,14 @@ Abstraction layer for view. It is the parent for many of the derived classes tha
 
 Below are the Concrete Classes for IActionResult are:
 - ViewResult
-- PartialView
-- Json
-- File
-- Redirect
-- NotFound
+- PartialViewResult
+- JsonResult
+- FileResult
+- RedirectResult
+- ContentResult
 - EmptyResult
-- RedirectToAction
-- JavaScript
+- RedirectToActionResult
+- JavaScriptResult
 
 
 Shared Folder:
@@ -127,3 +127,6 @@ Some of the Tag Helper:
 - asp-page
 - asp-area
 - asp-route-id
+
+Entity Framework Core
+It is used to manipulate Data Layer.

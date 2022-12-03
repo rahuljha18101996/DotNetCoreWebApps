@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSCrudWebApp", "MSCrudWebAp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AA3E5C6-910A-45B6-8ED6-8FE76A455B5E}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\ActionResult.png = ..\..\..\Pictures\ActionResult.png
 		..\..\..\Pictures\MVC.png = ..\..\..\Pictures\MVC.png
 		..\..\..\Pictures\Pipeline.png = ..\..\..\Pictures\Pipeline.png
 		Readme.md = Readme.md

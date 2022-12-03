@@ -64,6 +64,8 @@ A pipeline specify how web application should response to different web request.
 
 A pipeline is made up of different middlewares and MVC is type of middleware itself.
 
+<img src="https://github.com/rahuljha18101996/DotNetCoreWebApps/blob/master/.img/Pipeline.png"/>
+
 Middleware:
 - MVC
 - AUth
@@ -72,6 +74,7 @@ Middleware:
 Note: Order of pipeline is very important. For instance authentication should alway come before autherization.
 
 MVC - Model View Controller
+<img src="https://github.com/rahuljha18101996/DotNetCoreWebApps/blob/master/.img/MVC.png"/>
 - Model : Define shape of the data. Represent all the data in the application.
 - View : Represents the User Interface.
 - Controller : Handles the user request and acts as an interface between Model & View. Heart of the MVC Application.
@@ -102,6 +105,7 @@ Below are the Concrete Classes for IActionResult are:
 - RedirectToActionResult
 - JavaScriptResult
 
+<img src="https://github.com/rahuljha18101996/DotNetCoreWebApps/blob/master/.img/ActionResult.png"/>
 
 Shared Folder:
 For Partial View. View within a view.

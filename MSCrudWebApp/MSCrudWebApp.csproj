@@ -1,9 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <!-- Section define the target framework which we are using. -->	
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
+  
+	<!-- ItemGroup contain all the Nuget packages which we install -->
 </Project>
